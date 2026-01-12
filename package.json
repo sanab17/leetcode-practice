@@ -1,0 +1,20 @@
+{
+  "name": "leetcode-practice",
+  "version": "1.0.0",
+  "description": "Repo to practice leetcode problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanab17/leetcode-practice.git"
+  },
+  "keywords": [],
+  "author": "Sana Bulbule",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "25.0.6"
+  }
+}

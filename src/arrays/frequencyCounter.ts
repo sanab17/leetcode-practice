@@ -39,5 +39,5 @@ export const mostFrequentNumber = (numArray: number[]) : number => {
     return mostFrequent;
 };
 
-console.log('Freq counter: ', frequencyCounter([1, 2, 2, 3, 3, 3, 4]));
-console.log('Most frequent number: ', mostFrequentNumber([1, 2, 2, 3, 3, 3, 3, 4]));
+console.log('Freq counter: ' + frequencyCounter([1, 2, 2, 3, 3, 3, 4]));
+console.log('Most frequent number: ' + mostFrequentNumber([1, 2, 2, 3, 3, 3, 4]));
