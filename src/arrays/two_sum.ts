@@ -3,8 +3,10 @@
 Problem 3: Two Sum (Medium)
 Time: 20 minutes
 
-Given an array of integers and a target sum, return the indices of two numbers that add up 
-to the target. You may assume exactly one solution exists, and you cannot use the same element twice.
+Given an array of integers and a target sum, return 
+the indices of two numbers that add up 
+to the target. You may assume exactly one solution 
+exists, and you cannot use the same element twice.
 
 Example:
 Input: nums = [2, 7, 11, 15], target = 9
